@@ -11,5 +11,5 @@ sub   4096R/34327D3F 2016-11-02 [expires: 2020-11-02]
 
 To configure a [GPG Sync](https://github.com/firstlookmedia/gpgsync) endpoint, use these values:
 
-* GPG Fingerprint: `86EB84C96B2E62676B47C4919BB29FF9FD3ED09F`
+* GPG Fingerprint: `0968BBE773D18C9FE57713D46FF88A9DC2A4071E`
 * Fingerprints URL: `https://raw.githubusercontent.com/andromedarabbit/gpgsync-uncharted-fingerprints/master/fingerprints.txt`
